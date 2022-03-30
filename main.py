@@ -31,3 +31,6 @@ print("complete!\n next stage is last!")
 time.sleep(1)
 q_num = 3
 quest.quest(q_num, p_order, selection.set_enemy(q_num, enemy))
+
+# クエスト終了
+time.sleep(1)
